@@ -1,2 +1,2 @@
-# school
+# school life
 its a school site
